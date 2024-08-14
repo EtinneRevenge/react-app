@@ -15,26 +15,33 @@ export const VIDEOS = [
         img: reactLogo,
     },
     {
-        id: 4,
+        id: 3,
         title: 'Видео 3',
         channelName: "Medvedev",
         img: reactLogo,
     },
     {
-        id: 5,
+        id: 4,
         title: 'Видео 4',
         channelName: "Medvedev",
         img: reactLogo,
     },
     {
-        id: 6,
+        id: 5,
         title: 'Видео 5',
         channelName: "Medvedev",
         img: reactLogo,
     },
     {
-        id: 7,
+        id: 6,
         title: 'Видео 6',
+        channelName: "Medvedev",
+        img: reactLogo,
+    },
+
+    {
+        id: 7,
+        title: 'Видео 7',
         channelName: "Medvedev",
         img: reactLogo,
     },
